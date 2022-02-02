@@ -1,0 +1,15 @@
+M:\Temp M\Calculadora_I\CalculadoraDeArea\CalculadoraDeArea\CalculadoraDeArea\bin\Debug\net6.0\CalculadoraDeArea.exe
+M:\Temp M\Calculadora_I\CalculadoraDeArea\CalculadoraDeArea\CalculadoraDeArea\bin\Debug\net6.0\CalculadoraDeArea.deps.json
+M:\Temp M\Calculadora_I\CalculadoraDeArea\CalculadoraDeArea\CalculadoraDeArea\bin\Debug\net6.0\CalculadoraDeArea.runtimeconfig.json
+M:\Temp M\Calculadora_I\CalculadoraDeArea\CalculadoraDeArea\CalculadoraDeArea\bin\Debug\net6.0\CalculadoraDeArea.dll
+M:\Temp M\Calculadora_I\CalculadoraDeArea\CalculadoraDeArea\CalculadoraDeArea\bin\Debug\net6.0\ref\CalculadoraDeArea.dll
+M:\Temp M\Calculadora_I\CalculadoraDeArea\CalculadoraDeArea\CalculadoraDeArea\bin\Debug\net6.0\CalculadoraDeArea.pdb
+M:\Temp M\Calculadora_I\CalculadoraDeArea\CalculadoraDeArea\CalculadoraDeArea\obj\Debug\net6.0\CalculadoraDeArea.csproj.AssemblyReference.cache
+M:\Temp M\Calculadora_I\CalculadoraDeArea\CalculadoraDeArea\CalculadoraDeArea\obj\Debug\net6.0\CalculadoraDeArea.GeneratedMSBuildEditorConfig.editorconfig
+M:\Temp M\Calculadora_I\CalculadoraDeArea\CalculadoraDeArea\CalculadoraDeArea\obj\Debug\net6.0\CalculadoraDeArea.AssemblyInfoInputs.cache
+M:\Temp M\Calculadora_I\CalculadoraDeArea\CalculadoraDeArea\CalculadoraDeArea\obj\Debug\net6.0\CalculadoraDeArea.AssemblyInfo.cs
+M:\Temp M\Calculadora_I\CalculadoraDeArea\CalculadoraDeArea\CalculadoraDeArea\obj\Debug\net6.0\CalculadoraDeArea.csproj.CoreCompileInputs.cache
+M:\Temp M\Calculadora_I\CalculadoraDeArea\CalculadoraDeArea\CalculadoraDeArea\obj\Debug\net6.0\CalculadoraDeArea.dll
+M:\Temp M\Calculadora_I\CalculadoraDeArea\CalculadoraDeArea\CalculadoraDeArea\obj\Debug\net6.0\ref\CalculadoraDeArea.dll
+M:\Temp M\Calculadora_I\CalculadoraDeArea\CalculadoraDeArea\CalculadoraDeArea\obj\Debug\net6.0\CalculadoraDeArea.pdb
+M:\Temp M\Calculadora_I\CalculadoraDeArea\CalculadoraDeArea\CalculadoraDeArea\obj\Debug\net6.0\CalculadoraDeArea.genruntimeconfig.cache
