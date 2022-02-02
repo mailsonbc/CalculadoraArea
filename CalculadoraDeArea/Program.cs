@@ -7,31 +7,29 @@
 
         public enum Calculos
         {
-            Vazio, //0
+            Vazio, //0 Para a escolha do quadrado ser 1 não 0
             Quadrado, //1
             Triangulo, //2
             Circulo,  //3
         }
         static void Main(string[] args)
         {
-            int escolha = 0;
-
             Console.WriteLine("Escolha de qual polígono quer calcular a área: ");
             Console.WriteLine("Quadrado 1, Triângulo 2 e Círculo 3 ");
-            escolha = Convert.ToInt32(Console.ReadLine());
+            Calculos escolha = (Calculos)Convert.ToInt32(Console.ReadLine());
 
             switch (escolha)
             {
-                case 1: Quadrado quadrado = new Quadrado();
+                case Calculos.Quadrado: Quadrado quadrado = new();
                     quadrado.Exibir();
                     break;
 
-                case 2: Triangulo triangulo = new Triangulo();
+                case Calculos.Triangulo: Triangulo triangulo = new();
                     triangulo.Exibir(); 
                     break;
 
-                case 3:
-                    Console.WriteLine(Calculos.Circulo);
+                case Calculos.Circulo: Circulo circulo = new();
+                    circulo.Exibir();
                     break;
             }
             
