@@ -11,11 +11,12 @@
             Quadrado, //1
             Triangulo, //2
             Circulo,  //3
+            Retangulo, //4
         }
         static void Main(string[] args)
         {
             Console.WriteLine("Escolha de qual polígono quer calcular a área: ");
-            Console.WriteLine("Quadrado 1, Triângulo 2 e Círculo 3 ");
+            Console.WriteLine("Quadrado 1, Triângulo 2, Círculo 3 e Retângulo 4: ");
             Calculos escolha = (Calculos)Convert.ToInt32(Console.ReadLine());
 
             switch (escolha)
@@ -30,6 +31,10 @@
 
                 case Calculos.Circulo: Circulo circulo = new();
                     circulo.Exibir();
+                    break;
+
+                case Calculos.Retangulo: Retangulo retangulo = new();
+                    retangulo.Exibir();
                     break;
             }
             

@@ -30,13 +30,12 @@ namespace CalculadoraDeArea
         }
 
         public void Exibir()
-        {
-            Triangulo triangulo = new();
+        {  
             Console.WriteLine("Entre com a altura do triangulo: ");
-            triangulo.TrianguloAltura = Convert.ToInt32(Console.ReadLine());
+            TrianguloAltura = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Entre com a base do triangulo: ");
-            triangulo.TrianguloBase = Convert.ToInt32(Console.ReadLine());
-            triangulo.CalcularArea();
+            TrianguloBase = Convert.ToInt32(Console.ReadLine());
+            CalcularArea();
         }
     }
 
